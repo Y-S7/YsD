@@ -3,6 +3,7 @@
   box-sizing: border-box;
 }
 body{
+  font-family: 'Space Grotesk', sans-serif;
   background-color:#000;
   font-family: 'Inter', sans-serif;
 
@@ -307,7 +308,7 @@ h3{
   border-radius: 50px; 
   color: #fff;
   text-decoration: none;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   transition: 0.3s all ease;
 }
 .pill svg { width: 18px; fill: #5865f2; }
@@ -317,5 +318,6 @@ h3{
   border-color: #fff;
 }
 .pill:hover svg { fill: #fff; }
+
 
 
