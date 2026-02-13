@@ -287,7 +287,8 @@ background: linear-gradient(145deg, #1e1e1e, #161616);
   box-shadow: 0 15px 30px rgba(0, 210, 255, 0.4);
 }
 h3{
-  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  font-size: clamp(1.5rem, 2vw, 1.5rem);
+  
 }
 .social-pills {
   display: flex;
