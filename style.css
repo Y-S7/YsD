@@ -317,5 +317,9 @@ h3{
 }
 .pill:hover svg { fill: #fff; }
 
-
+.git{
+  background-color: green;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
 
